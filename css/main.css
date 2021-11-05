@@ -7,6 +7,16 @@
 
 .logo {
     font-family: 'Dancing Script', cursive;
-    font-weight: 600;
+    font-weight: 900;
     font-size: 33px;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+}
+
+.btn:hover {
+    background-color: orange;
+    border: none;
 }
