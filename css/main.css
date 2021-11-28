@@ -41,12 +41,12 @@
             box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
         }
         
-        ul {
+        .menu {
             list-style: none;
             text-align: center;
         }
         
-        ul li a {
+        .menu li a {
             text-decoration: none;
             color: #fff;
         }
